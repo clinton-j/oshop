@@ -1,3 +1,3 @@
 # oshop
-angular-oshop
-my 1st repo
+
+make and commit changes
